@@ -1,2 +1,2 @@
-# JavaScript Random Advice Web App
+## JavaScript Random Advice App
 
