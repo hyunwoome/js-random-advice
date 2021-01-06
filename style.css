@@ -1,0 +1,29 @@
+html {
+	background: url('./images/newyork.jpg');
+	background-position: center;
+	background-size: cover;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	height: 100vh;
+	width: 100vw;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.box {
+	width: 50vw;
+	background-color: white;
+	padding: 50px;
+	border-radius: 15px;
+	flex-direction: column;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	box-shadow: 10px 10px 20px 1px black;
+	opacity: 0.95;
+}
