@@ -13,6 +13,7 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	font-family: 'Nunito', sans-serif;
 }
 
 .box {
@@ -26,4 +27,25 @@ body {
 	align-items: center;
 	box-shadow: 10px 10px 20px 1px black;
 	opacity: 0.95;
+}
+
+.box p {
+	font-size: 1.5rem;
+	font-weight: 700;
+	text-align: center;
+}
+
+.box button {
+	font-size: 1rem;
+	padding: 0.5rem;
+	border-radius: 10px;
+	background-color: lightcoral;
+	color: #ffffff;
+	box-shadow: 3px 3px 10px 1px black;
+	margin-top: 35px;
+}
+
+.box button:hover {
+	background-color: lightpink;
+	cursor: pointer;
 }
