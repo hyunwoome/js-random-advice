@@ -30,7 +30,7 @@ $ git clone https://github.com/hyunwoome/js-random-advice.git
 
 <br>
 
-## ⓒ License
+## License
 
 © 2021 Hyunwoo Lim
 
