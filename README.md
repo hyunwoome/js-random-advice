@@ -1,13 +1,37 @@
-## JavaScript Random Advice App
+# JavaScript Random Advice App
+
+- 바닐라 자바스크립트를 사용한 Random Advice App
+
+<br>
+
+## 🖼 Image
 
 ![screen](./images/screen.png)
 
 <br>
 
-### 바닐라 자바스크립트를 이용한 랜덤 어드바이스 앱 
+## 🔨 Tools
 
-- `https://api.adviceslip.com`에서 제공하는 JSON 데이터를 불러와 화면에 보여주는 기능
+- HTML5
+- CSS
+- JavaScript
 
-- ES6의 `fetch` API를 이용한 비동기 요청 
+<br>
 
-- Google Web Font (Nunito)
+## ⚙️ Execute for Local Environment
+
+- git clone
+
+```sh
+$ git clone https://github.com/hyunwoome/js-random-advice.git
+```
+
+- Using vscode [liveserver](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
+<br>
+
+## ⓒ License
+
+© 2021 Hyunwoo Lim
+
+This repository is licensed under the MIT license. See `LICENSE` for details
